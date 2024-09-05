@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Flame Designs"];
+
 
 
 let currentIndex = 0;
